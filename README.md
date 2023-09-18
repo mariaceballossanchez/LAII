@@ -1,7 +1,7 @@
 # **LAII**
 
 # Analizador Léxico de Expresiones Matemáticas
-Este es un analizador léxico de expresiones matemáticas con una interfaz gráfica en Java. Permite a los usuarios ingresar una expresión matemática que puede contener variables (w, x, y, z), constantes (π, e), números (0-9) y operadores (+, -, /, *).
+Este es un analizador léxico de expresiones matemáticas con una interfaz gráfica en Java. Permite a los usuarios ingresar una expresión matemática que puede contener variables (w, x, y, z), constantes (pi, e), números (0-9) y operadores (+, -, /, *).
 
 # Características
 ## Interfaz Gráfica: 
